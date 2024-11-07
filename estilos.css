@@ -55,3 +55,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.foto {
+    position: absolute;
+    width: 15%;
+    height: 30%;
+    right: 40px;
+    top: 270px;
+}
